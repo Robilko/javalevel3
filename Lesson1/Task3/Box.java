@@ -45,6 +45,4 @@ public class Box <T extends Fruit & SpecialFruit>{
         anotherBox.capacity -= countMax;
         capacity += countMax;
     }
-
-
 }
